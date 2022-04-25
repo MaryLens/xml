@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rootNode>
+      <children>
+           <child>A</child>
+           <child>B</child>
+           <child>A</child>
+           <child>B</child>
+      </children>
+  </rootNode>
